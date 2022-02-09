@@ -165,7 +165,7 @@ def hillClimb(matrix, mask, e_prob, step=False, n_step=1):
         
         error_updated = checkErrorFlat(solution, coor_box, coor_t, mask_box, mask_col, mask_row)
         tmp = error_updated-error
-        if error > error_updated or bad == 1:
+        if error >= error_updated or bad == 1:
             tries = 0
             if error < error_updated and debug:
                 print("\nmaking a bad move")
