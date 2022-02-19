@@ -9,4 +9,4 @@ To run the program with command prompt, simply navigate to its directory and run
 
 To change the parameters, open the file with any text editor and navigate to the main function (line 170 – 180) to modify the values accordingly.
 
-For more information about this program, please see the pdf file with included in the same directory.
+For more information about this program, please see the pdf file that is included in the same directory.
