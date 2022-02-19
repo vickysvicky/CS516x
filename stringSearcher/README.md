@@ -1,6 +1,5 @@
---------------
-- How to run -
---------------
+## How to run
+
 
 This is a python program written to study Genetic Algorithm. The required packages for this program to run are: random, time, itertools, and matplotlib.
 
